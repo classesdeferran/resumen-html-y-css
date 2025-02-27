@@ -1,0 +1,6 @@
+Los pasos se siguen en este orden
+
+git init
+
+
+
