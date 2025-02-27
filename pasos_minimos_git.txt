@@ -3,4 +3,8 @@ Los pasos se siguen en este orden
 git init
 
 
+git add .
+
+git commit -m "Etiquetas HTML básicas"
+
 
